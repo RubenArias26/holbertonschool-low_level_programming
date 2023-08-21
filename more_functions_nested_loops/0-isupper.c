@@ -1,4 +1,3 @@
-#include <stdio>
 /*
  * File: 0-isupper.c
  */
